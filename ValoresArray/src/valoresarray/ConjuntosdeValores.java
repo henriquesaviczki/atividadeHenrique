@@ -53,11 +53,11 @@ public class ConjuntosdeValores {
         
         while (true) {
             System.out.println("0  Menu");
-            System.out.println("1  Cadastrar Valor");
-            System.out.println("2  Maior Valor");
-            System.out.println("3  Menor Valor");
-            System.out.println("4  Ler Média");
-            System.out.println("5  sair");
+            System.out.println("1-----  Cadastrar Valor");
+            System.out.println("2-----  Maior Valor");
+            System.out.println("3-----  Menor Valor");
+            System.out.println("4-----  Ler Média");
+            System.out.println("5-----  Sair");
             opcao = entrada.nextInt();
             
             switch (opcao) {
